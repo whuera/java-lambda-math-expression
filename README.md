@@ -1,2 +1,2 @@
 # java-lambda-math-expression
-java lambda math fucntions
+java lambda math functions
