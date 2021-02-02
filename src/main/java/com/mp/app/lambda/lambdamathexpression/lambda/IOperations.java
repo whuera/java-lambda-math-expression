@@ -2,6 +2,7 @@ package com.mp.app.lambda.lambdamathexpression.lambda;
 
 /**
  * Functional Interface
+ * for lambda operations
  */
 @FunctionalInterface
 public interface IOperations {
